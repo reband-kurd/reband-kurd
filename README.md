@@ -36,14 +36,6 @@ Proud member of **The S** — a passionate dev team working on creative digital 
 
 > *“The S” is a Kurdish team of passionate developers building creative and practical web solutions for real-world problems.*
 
----
-
-### 📈 GitHub Stats
-
-![Reband's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebandhamadamen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebandhamadamen&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect!
 
