@@ -24,7 +24,7 @@ Proud member of **The S** — a passionate dev team working on creative digital 
 
 ### 🚀 Featured Projects
 
-- 🧠 **[My Portfolio](https://rebandhamadameen.tech/)** – Built with **Next.js** and **TailwindCSS**
+- 🧠 **[My Portfolio](https://reband.site/)** – Built with **Next.js** and **TailwindCSS**
 - 🎬 **Movie Streaming App** – Browse movies & TV shows using the TMDb API, with filters and trailers
 - 📚 **Course Manager** – Easily manage and view video lectures (embedded from Google Drive)
 
