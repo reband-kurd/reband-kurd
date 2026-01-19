@@ -37,7 +37,7 @@ Proud member of **The S** — a passionate dev team working on creative digital 
 
 ### 📫 Let's Connect!
 
-- 💼 [My Portfolio](https://rebandhamadameen.tech/)
+- 💼 [My Portfolio](https://reband.site/)
 - 📷 [Instagram]([https://instagram.com/yourhandle](https://www.instagram.com/rebandhamadameen/))
 - ✉️ rebandhamadameen@gmail.com *(optional)*
 
