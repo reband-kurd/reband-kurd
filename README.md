@@ -149,18 +149,6 @@ const reband = {
 
 ---
 
-## 👥 The S Team
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=A+Kurdish+Team+of+Passionate+Developers;Building+Creative+Web+Solutions;Transforming+Ideas+into+Reality" alt="The S Team Typing Animation" />
-
-**The S** is more than just a team — it's a collective of creative minds from Kurdistan dedicated to building innovative digital solutions. We combine cutting-edge technology with cultural authenticity to create impactful web applications.
-
-</div>
-
----
-
 ## 💭 Current Learning Journey
 
 <div align="center">
@@ -224,7 +212,6 @@ Whether you want to discuss web development, explore project ideas, or just chat
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
 
