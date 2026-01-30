@@ -141,7 +141,7 @@ const reband = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reband-kurd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reband-kurd&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=reband-kurd&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF](https://github-readme-streak-stats.herokuapp.com/?user=reband-kurd&theme=dark&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reband-kurd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reband-kurd&theme=radical" />
