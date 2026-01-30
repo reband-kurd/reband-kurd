@@ -36,7 +36,7 @@ const reband = {
 
 ### 💡 What Drives Me
 
-*I blend **academic knowledge** with **real-world development** to solve problems and create beautiful digital experiences. As a proud member of **The S**, I'm part of a passionate Kurdish dev team building creative and practical web solutions for real-world problems.*
+*I blend **academic knowledge** with **real-world development** to solve problems and create beautiful digital experiences. Passionate about turning complex challenges into elegant solutions through clean code and thoughtful design.*
 
 </div>
 
@@ -140,23 +140,13 @@ const reband = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reband-kurd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reband-kurd&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reband-kurd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reband-kurd&theme=radical" />
 
-</div>
-
----
-
-## 👥 The S Team
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=A+Kurdish+Team+of+Passionate+Developers;Building+Creative+Web+Solutions;Transforming+Ideas+into+Reality" alt="The S Team Typing Animation" />
-
-**The S** is more than just a team — it's a collective of creative minds from Kurdistan dedicated to building innovative digital solutions. We combine cutting-edge technology with cultural authenticity to create impactful web applications.
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=reband-kurd&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -194,7 +184,7 @@ graph LR
 - [ ] 📝 Write technical blogs and tutorials
 - [ ] 🤝 Contribute to major open-source repositories
 - [ ] 🎓 Complete Advanced Web Development certifications
-- [ ] 💼 Expand **The S** team's portfolio with client projects
+- [ ] 💼 Build and deploy production-ready applications
 - [ ] 🌍 Connect with global developer communities
 
 ---
@@ -219,13 +209,13 @@ Whether you want to discuss web development, explore project ideas, or just chat
 
 ### 💬 Philosophy
 
-*"Code is a tool to build the future — and we're here to shape it."*
+*"Code is a tool to build the future — and I'm here to shape it."*
 
-**— Proud CS Student & Member of The S 🇹🇯**
+**— Proud CS Student from Kurdistan 🇹🇯**
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=reband-kurd&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
 
