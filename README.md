@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=REBAND%20HAMADAMEEN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Specialist%20|%20Member%20of%20The%20S&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=REBAND%20HAMADAMEEN&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Specialist%20|%20CS%20Student&descSize=16&descAlignY=55" />
 
 </div>
 
@@ -24,9 +24,9 @@ const reband = {
     location: "Kurdistan 🏔️",
     education: "Stage Three Computer Science Student 🎓",
     role: "Full Stack Developer",
-    team: "The S - Creative Developer Team 💎",
+    specialization: "React & Modern Web Development 💎",
     passion: "Building modern, responsive, and lightning-fast web experiences",
-    philosophy: "Code is a tool to build the future — and we're here to shape it",
+    philosophy: "Code is a tool to build the future — and I'm here to shape it",
     currentFocus: ["React Ecosystem", "Modern Web Architecture", "User Experience"],
     lifeGoal: "Transform ideas into digital realities"
 };
@@ -58,6 +58,7 @@ const reband = {
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -139,11 +140,23 @@ const reband = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=reband-kurd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reband-kurd&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?reband-kurd=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?reband-kurd=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+---
+
+## 👥 The S Team
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=A+Kurdish+Team+of+Passionate+Developers;Building+Creative+Web+Solutions;Transforming+Ideas+into+Reality" alt="The S Team Typing Animation" />
+
+**The S** is more than just a team — it's a collective of creative minds from Kurdistan dedicated to building innovative digital solutions. We combine cutting-edge technology with cultural authenticity to create impactful web applications.
 
 </div>
 
@@ -181,6 +194,7 @@ graph LR
 - [ ] 📝 Write technical blogs and tutorials
 - [ ] 🤝 Contribute to major open-source repositories
 - [ ] 🎓 Complete Advanced Web Development certifications
+- [ ] 💼 Expand **The S** team's portfolio with client projects
 - [ ] 🌍 Connect with global developer communities
 
 ---
@@ -211,6 +225,7 @@ Whether you want to discuss web development, explore project ideas, or just chat
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Profile Views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" />
 
